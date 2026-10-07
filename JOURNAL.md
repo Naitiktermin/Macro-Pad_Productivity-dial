@@ -28,7 +28,7 @@ Researched, made a plan an
 
 d design, started a rough flow of control for code, and 40% of the PCB designing done!
 
-Refreshed my ki-cad memory(hadn't touched it for a loooong time).
+Refreshed my ki-cad memory(hadn't touched it for a loooong time, practically forgot it 😭 ).
 
 I am going with a modular approach, 3 macro keys, and a dial with return to position feature.
 
