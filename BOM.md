@@ -14,14 +14,13 @@
 | --- | --- | --- | --- | --- | --- |
 | [RP2040](https://www.amazon.in/dp/B0H76SBNCX?psc=1&ref_=cm_sw_r_cp_ud_ct_MQET82338Y6YY1FESDNF) | For HID, motor control and logic. | 1 | $5.91 | $5.91 | [Flyrobo Technologies](https://www.amazon.in/dp/B0H76SBNCX?psc=1&ref_=cm_sw_r_cp_ud_ct_MQET82338Y6YY1FESDNF) |
 | [MT6701 Magnetic Encoder Module](https://www.dnatechindia.com/mt6701-magnetic-encoder-module-pwm-i2c.html) | Magnetic Encoder | 1 | $12.31 | $12.31 | [DNAtechindia](https://www.dnatechindia.com/mt6701-magnetic-encoder-module-pwm-i2c.html) |
-| [MicroSD Card Module](https://www.amazon.in/dp/B0H9H46Q3X?psc=1&ref_=cm_sw_r_cp_ud_ct_J0YF37XQ5HB10TWMYSTE_2) | Storage and persistency | 1 | $1.00 | $1.00 | [Robomalls Stores](https://www.amazon.in/dp/B0H9H46Q3X?psc=1&ref_=cm_sw_r_cp_ud_ct_J0YF37XQ5HB10TWMYSTE_2) |
 | [TFT 1.8 inch LCD Screen Module](https://amzn.in/d/0aluJvHq) | Display | 1 | $4.45 | $4.45 | [Robocraze](https://amzn.in/d/0aluJvHq) |
 | [TMC6300](https://www.amazon.in/dp/B0G2Y4W8QM?psc=1&ref_=cm_sw_r_cp_ud_ct_J0YF37XQ5HB10TWMYSTE_4) | Motor Driver | 1 | $10.45 | $10.45 | [Robocraze Store](https://www.amazon.in/dp/B0G2Y4W8QM?psc=1&ref_=cm_sw_r_cp_ud_ct_J0YF37XQ5HB10TWMYSTE_4) |
 | [90KV Brushless Motor](https://www.amazon.in/dp/B0FH6HCKMQ?psc=1&ref_=cm_sw_r_cp_ud_ct_J0YF37XQ5HB10TWMYSTE_6) | Motor | 1 | $19.50 | $19.50 | [Kosliya Gallery](https://www.amazon.in/dp/B0FH6HCKMQ?psc=1&ref_=cm_sw_r_cp_ud_ct_J0YF37XQ5HB10TWMYSTE_6) |
 | [Vibration Motor](https://www.amazon.in/dp/B0D95PR5RN?psc=1&ref_=cm_sw_r_cp_ud_ct_J0YF37XQ5HB10TWMYSTE_8) | Haptic Feedback | 1 | $1.98 | $1.98 | [Robocraze](https://www.amazon.in/dp/B0D95PR5RN?psc=1&ref_=cm_sw_r_cp_ud_ct_J0YF37XQ5HB10TWMYSTE_8) |
 | [MX Blue style Switches](https://amzn.in/d/01rYPl8h) | Keys | 1 | $5.21 | $5.21 | [Buildcon](https://amzn.in/d/01rYPl8h) |
-| **Parts subtotal** | — | — | — | **$60.81** | — |
+| **Parts subtotal** | — | — | — | **$59.81** | — |
 | **Tax & shipping** | — | — | — | **$2.06** | — |
-| **Total** | — | — | — | **$62.87** | — |
+| **Total** | — | — | — | **$61.87** | — |
 
-$2.13 left of the tier's funding.
+$3.13 left of the tier's funding.
