@@ -20,7 +20,7 @@
 | [90KV Brushless Motor](https://www.amazon.in/dp/B0FH6HCKMQ?psc=1&ref_=cm_sw_r_cp_ud_ct_J0YF37XQ5HB10TWMYSTE_6) | Motor | 1 | $19.50 | $19.50 | [Kosliya Gallery](https://www.amazon.in/dp/B0FH6HCKMQ?psc=1&ref_=cm_sw_r_cp_ud_ct_J0YF37XQ5HB10TWMYSTE_6) |
 | [Vibration Motor](https://www.amazon.in/dp/B0D95PR5RN?psc=1&ref_=cm_sw_r_cp_ud_ct_J0YF37XQ5HB10TWMYSTE_8) | Haptic Feedback | 1 | $1.98 | $1.98 | [Robocraze](https://www.amazon.in/dp/B0D95PR5RN?psc=1&ref_=cm_sw_r_cp_ud_ct_J0YF37XQ5HB10TWMYSTE_8) |
 | **Parts subtotal** | — | — | — | **$55.61** | — |
-| **Tax & shipping** | — | — | — | **$57.67** | — |
-| **Total** | — | — | — | **$113.28** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$55.61** | — |
 
-**$13.28 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$44.39 left of the tier's funding.
