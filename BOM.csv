@@ -1,7 +1,7 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 RP2040,1,robu.in,$6.83,$6.83,https://robu.in/product/raspberry-pi-pico-w/?src=raspberrypi
 TLV493D,1,robu.in,$2.05,$2.05,https://robu.in/product/smartelex-tlv493d-triple-axis-magnetometer/
-TFT 1.8 inch LCD Screen Module,1,Robocraze,$4.45,$4.45,https://amzn.in/d/0aluJvHq
+TFT 2.4 inch LCD Screen Module,1,robu.in,$7.36,$7.36,https://robu.in/product/2-4-inch-spi-interface-240x320-touch-screen-tft-display-module/
 TMC6300,1,Robocraze Store,$10.45,$10.45,https://www.amazon.in/dp/B0G2Y4W8QM?psc=1&ref_=cm_sw_r_cp_ud_ct_J0YF37XQ5HB10TWMYSTE_4
 90KV Brushless Motor,1,Kosliya Gallery,$19.50,$19.50,https://www.amazon.in/dp/B0FH6HCKMQ?psc=1&ref_=cm_sw_r_cp_ud_ct_J0YF37XQ5HB10TWMYSTE_6
 Vibration Motor,1,Robocraze,$1.98,$1.98,https://www.amazon.in/dp/B0D95PR5RN?psc=1&ref_=cm_sw_r_cp_ud_ct_J0YF37XQ5HB10TWMYSTE_8
