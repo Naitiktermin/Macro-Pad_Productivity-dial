@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-07T17:42:03.588Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuwvfihs0bnd01os8dxa0oiw). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A macro-pad with a dial and a display, has basic macro-pad functionality along with a productivity timer.
 
