@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Library") (type "KiCad") (uri "/home/naitik/Downloads/Ki-cad foot /Library.pretty") (options "") (descr ""))
+	(lib (name "Ki-cad foot ") (type "KiCad") (uri "/home/naitik/Downloads/Ki-cad foot /Library.pretty/Ki-cad foot .pretty") (options "") (descr ""))
+)
